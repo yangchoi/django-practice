@@ -20,5 +20,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-# manage.py : Django 프로젝트와 다양한 방법으로 상호작용하는 커맨드라인의 유틸리티
